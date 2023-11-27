@@ -6,7 +6,7 @@ Tableau project that visualizes project KPIs. Dashboard is linked [Here.](https:
 
 Dashboard key metrics:
 * Total projects
-* Budget and expense
+* Budget and expense trend
 * Project location
 * Budget utilization
 * Timeline
@@ -14,3 +14,7 @@ Dashboard key metrics:
 * Status and health
 * Project managers
 * Project details
+
+### Dashboard:
+<img width="1415" alt="Screen Shot 2023-11-26 at 4 31 10 PM" src="https://github.com/stephenaigner/Project-Management-Dashboard/assets/90224544/6efbb2b4-e1b0-473c-b076-4d7ce563460e">
+<img width="1422" alt="Screen Shot 2023-11-26 at 4 32 14 PM" src="https://github.com/stephenaigner/Project-Management-Dashboard/assets/90224544/33c905d9-42a7-47db-b7e9-0a3787a7fa8f">
