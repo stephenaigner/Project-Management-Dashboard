@@ -1,0 +1,98 @@
+﻿Budget,Country (Geo),End Date,Expense,State,Overall Project Health,Planned Date,Priority,Project ID,Project Manager,Project Name,Project Schedule,Project Type,Start Date,Status,% Complete,Priority1
+"$2,000.00",USA,10/12/19,1500,California,On Track,25/10/2019,Medium,1,Dave Chieke,Auditorium Setup 1,242,Building Construction,2/12/19,In Progress,0.93,3
+"$20,000.00",USA,10/4/20,19800,Arizona,On Track,20/04/2020,Very Low,2,Ema Ekpo,Lab Implementation 1,430,Building Construction,2/5/19,In Progress,0.95,1
+"$8,700.00",USA,2/3/20,6490,Texas,On Track,3/2/20,Very High,3,Ema Ekpo,Park Place 1,268,Road Construction,5/11/19,In Progress,0.46,5
+"$10,000.00",USA,2/11/20,7540,New York,On Track,21/02/2020,Low,4,Ema Ekpo,Science Park Phase 2,245,Borehole & Reticulation,6/11/19,In Progress,0.59,2
+"$7,000.00",USA,3/6/20,6500,Washington,On Track,6/3/20,Low,5,Ema Ekpo,Research Offices,299,Borehole & Reticulation,5/12/19,In Progress,0.22,2
+"$15,000.00",USA,4/1/20,8700,Washington,On Track,1/4/20,Very High,6,Ema Ekpo,Innovation Classroom,297,Borehole & Reticulation,6/9/19,On Hold,0.61,5
+"$12,000.00",USA,4/10/20,13900,North Carolina,On Track,20/04/2020,Very Low,7,Ema Ekpo,Lab Implementation,342,Supplies,5/4/19,In Progress,0.95,1
+"$9,080.00",USA,2/3/20,2560,Ilinois,On Track,3/2/20,Medium,8,Ema Ekpo,Park Place 2,168,Transformer Installation,8/19/19,In Progress,0.46,3
+"$18,000.00",USA,4/9/20,11500,California,On Track,20/04/2020,High,9,Ema Ekpo,Lab Implementation,254,Transformer Installation,7/30/19,In Progress,0.95,4
+"$3,400.00",USA,2/3/20,2300,Arizona,On Track,3/2/20,High,10,Ema Ekpo,Park Place 3,168,Rehabilitation,8/19/19,In Progress,0.46,4
+"$63,600.00",USA,8/12/20,0,Texas,Needs Attention,19/08/2020,Very Low,11,Dave Chieke,Lab Building Construction 1,179,Building Construction,2/15/20,Planned,0,1
+"$6,000.00",USA,3/6/20,4080,New York,On Track,6/3/20,Very Low,12,Ema Ekpo,Research Offices,241,Road Construction,7/9/19,In Progress,0.22,1
+"$4,300.00",USA,3/6/20,4450,Florida,On Track,6/3/20,Medium,13,Ema Ekpo,Research Offices,213,Borehole & Reticulation,8/6/19,In Progress,0.22,3
+"$5,500.00",USA,3/6/20,1000,Washington,On Track,6/3/20,Low,14,Ema Ekpo,Research Offices,249,Rehabilitation,7/1/19,In Progress,0.22,2
+"$34,500.00",USA,10/12/19,30000,North Carolina,On Track,25/10/2019,Low,15,Dave Chieke,Classroom Arrangement,154,Rehabilitation,5/11/19,In Progress,0.93,2
+"$7,000.00",USA,2/10/20,6580,Washington,On Track,21/02/2020,Very Low,16,Ema Ekpo,Science Park 1,184,Building Construction,8/10/19,In Progress,0.59,1
+"$4,500.00",USA,10/1/20,0,California,Needs Attention,1/10/20,Very High,17,Ema Ekpo,Creative Media Industries 1,51,Building Construction,8/11/20,Planned,0,5
+"$23,000.00",USA,12/12/19,20340,Arizona,On Track,13/12/2019,Medium,18,Sarah Boulos,Lab Implementation,91,Road Construction,9/12/19,In Progress,0.35,3
+"$1,500.00",USA,7/12/19,980,Texas,Not Set,26/07/2019,Very High,19,Dave Chieke,Central Deployment,40,Borehole & Reticulation,6/2/19,On Hold,0.14,5
+"$9,800.00",USA,2/12/20,9050,New York,On Track,21/02/2020,Very Low,20,Ema Ekpo,Science Park 2,187,Building Construction,8/9/19,In Progress,0.59,1
+"$23,000.00",USA,10/12/20,0,Florida,Needs Attention,15/10/2020,Very High,21,Dave Chieke,Lab Building Construction 2,37,Building Construction,9/5/20,Planned,0,5
+"$1,200.00",USA,10/12/20,0,Washington,Needs Attention,18/10/2020,Very High,22,Ema Ekpo,Creative Media Industries 2,11,Building Construction,10/1/20,Planned,0,5
+"$12,300.00",USA,12/12/19,15000,North Carolina,On Track,13/12/2019,Medium,23,Sarah Boulos,Classroom Arrangement 1,100,Building Construction,9/3/19,In Progress,0.35,3
+"$2,340.00",USA,11/2/20,0,Ilinois,Not Set,28/11/2020,Very Low,24,Dave Chieke,Classroom Arrangement,121,Road Construction,7/4/20,Planned,0,1
+"$1,500.00",USA,10/12/20,0,California,Not Set,26/10/2020,Medium,25,Dave Chieke,Classroom Arrangement,98,Borehole & Reticulation,7/6/20,Planned,0,3
+$750.00,USA,1/5/20,0,Arizona,Needs Attention,5/1/20,Low,26,Dave Chieke,Lab Building Construction 3,188,Building Construction,7/1/19,Planned,0,2
+"$45,000.00",USA,9/10/20,0,Washington,Needs Attention,30/09/2020,Low,27,Ema Ekpo,Creative Media Industries,68,Transformer Installation,7/4/20,Planned,0,2
+"$1,230.00",USA,9/10/20,0,New York,On Track,30/09/2020,Medium,28,Sarah Boulos,Classroom Arrangement 2,352,Building Construction,9/24/19,Planned,0,3
+"$53,855.00",USA,5/8/20,42560,Florida,On Track,8/5/20,Very Low,29,Vivian Ade,Innovation Classroom,165,Transformer Installation,11/25/19,In Progress,0.76,1
+"$3,500.00",USA,2/10/20,3560,Washington,On Track,21/02/2020,Low,30,Ema Ekpo,Science Park 3,175,Building Construction,8/19/19,In Progress,0.59,2
+$790.00,USA,8/11/20,0,North Carolina,Needs Attention,29/08/2020,Medium,31,Ema Ekpo,Creative Media Industries,113,Transformer Installation,4/20/20,Planned,0,3
+"$10,000.00",USA,12/12/19,4500,Ilinois,On Track,13/12/2019,High,32,Sarah Boulos,Classroom Arrangement 3,90,Building Construction,9/13/19,In Progress,0.35,4
+"$2,000.00",USA,7/11/19,3400,California,Not Set,26/07/2019,High,33,Dave Chieke,Central Deployment,20,Transformer Installation,6/21/19,On Hold,0.14,4
+"$4,000.00",USA,3/12/19,3700,Arizona,On Track,21/02/2019,Low,34,Ema Ekpo,Science Park 4,52,Building Construction,1/19/19,In Progress,0.59,2
+"$7,000.00",USA,12/12/19,5690,Texas,On Track,25/10/2019,Very High,35,Dave Chieke,Classroom Arrangement,195,Transformer Installation,5/31/19,In Progress,0.93,5
+"$36,000.00",USA,12/12/20,25350,New York,On Track,1/12/20,High,36,Ema Ekpo,Central Deployment,277,Road Construction,3/10/20,In Progress,0.39,4
+"$3,400.00",USA,11/12/19,3100,Florida,On Track,20/11/2019,High,37,Ema Ekpo,External Wi-Fi Expansion,171,Borehole & Reticulation,5/25/19,In Progress,0.89,4
+"$4,560.00",USA,11/12/19,6510,Washington,On Track,14/11/2019,Very High,38,Ema Ekpo,Ticketing System,149,Supplies,6/16/19,In Progress,0.6,5
+"$9,585.00",USA,10/12/19,9500,North Carolina,On Track,25/10/2019,Low,39,Dave Chieke,Auditorium Setup 2,134,Building Construction,5/31/19,In Progress,0.93,2
+"$6,000.00",USA,10/12/19,5200,Ilinois,On Track,25/10/2019,Low,40,Dave Chieke,Auditorium Setup 3,134,Building Construction,5/31/19,In Progress,0.93,2
+"$1,200.00",USA,12/12/19,500,California,On Track,17/12/2019,Very High,41,James Seun,External Wi-Fi Expansion,159,Transformer Installation,7/6/19,On Hold,0.5,5
+"$23,000.00",USA,11/12/19,21000,Arizona,On Track,14/11/2019,Low,42,Ema Ekpo,Ticketing System,149,Transformer Installation,6/16/19,In Progress,0.6,2
+"$4,000.00",USA,8/12/19,0,Texas,On Track,25/11/2019,Medium,43,Dave Chieke,Auditorium Setup 4,73,Building Construction,5/31/19,In Progress,0.93,3
+"$7,000.00",USA,12/10/20,0,New York,Not Set,31/12/2020,Very Low,44,Ema Ekpo,Park Place 4,297,Transformer Installation,2/17/20,Planned,0,1
+"$16,000.00",USA,1/2/20,14560,Florida,Completed,2/1/20,Very High,45,James Seun,Innovation Classroom,164,Transformer Installation,7/22/19,Completed,1,5
+"$4,565.00",USA,12/3/20,2365,Washington,Completed,25/03/2020,Medium,46,Ema Ekpo,Floor Renovation 1,239,Building Construction,7/17/19,Completed,1,3
+"$3,400.00",USA,12/12/19,1240,North Carolina,Completed,28/11/2019,Medium,47,James Seun,Education Theatre 1,173,Building Construction,6/22/19,Completed,1,3
+"$2,300.00",USA,11/12/19,1760,Ilinois,On Track,22/11/2019,Medium,48,James Seun,Sculpture Building,109,Transformer Installation,7/26/19,In Progress,0.36,3
+"$1,235.00",USA,2/12/20,760,California,On Track,21/02/2020,Medium,49,Ema Ekpo,Science Park 5,177,Building Construction,8/19/19,In Progress,0.59,3
+"$1,500.00",USA,2/12/20,1235,Arizona,Completed,25/02/2020,High,50,Ema Ekpo,Creative Media Industries 3,156,Building Construction,9/9/19,Completed,1,4
+"$15,000.00",USA,12/12/19,4355,Texas,On Track,13/12/2019,Low,51,Sarah Boulos,Classroom Arrangement 4,90,Building Construction,9/13/19,In Progress,0.35,2
+$500.00,USA,9/12/19,600,New York,On Track,25/10/2019,Very High,52,Dave Chieke,Classroom Arrangement,104,Transformer Installation,5/31/19,In Progress,0.93,5
+"$1,455.00",USA,4/12/20,970,Florida,On Track,21/02/2020,High,53,Ema Ekpo,Science Park 6,237,Building Construction,8/19/19,In Progress,0.59,4
+"$6,000.00",USA,3/6/20,5890,Washington,On Track,6/3/20,Very High,54,Ema Ekpo,Research Offices 1,200,Building Construction,8/19/19,In Progress,0.22,5
+"$1,235.00",USA,4/1/20,760,North Carolina,On Track,1/4/20,Very Low,55,Ema Ekpo,Innovation Classroom,218,Transformer Installation,8/27/19,On Hold,0.61,1
+"$1,500.00",USA,4/12/20,1235,Ilinois,On Track,20/04/2020,Medium,56,Ema Ekpo,Lab Implementation 2,275,Building Construction,7/12/19,In Progress,0.95,3
+"$3,400.00",USA,4/12/20,3100,California,Completed,25/04/2020,Low,57,Ema Ekpo,Park Place 5,270,Transformer Installation,7/17/19,Completed,1,2
+"$2,400.00",USA,12/12/19,1000,Arizona,Completed,28/11/2019,Very Low,58,James Seun,Education Theatre 2,143,Building Construction,7/22/19,Completed,1,1
+"$9,585.00",USA,3/12/20,9500,Texas,Completed,25/03/2020,Very Low,59,Ema Ekpo,Park Place 6,239,Road Construction,7/17/19,Completed,1,1
+"$10,000.00",USA,12/12/19,8600,New York,Completed,28/12/2019,Very Low,60,James Seun,Innovation Classroom,143,Borehole & Reticulation,7/22/19,Completed,1,1
+"$8,000.00",USA,3/12/20,6400,Florida,Completed,25/03/2020,Very Low,61,Ema Ekpo,Floor Renovation 2,239,Building Construction,7/17/19,Completed,1,1
+"$51,345.00",USA,11/10/19,47680,Washington,On Track,20/11/2019,Medium,62,Vivian Ade,Innovation Classroom,29,Supplies,10/12/19,In Progress,0.49,3
+"$4,300.00",USA,3/12/20,3600,North Carolina,On Track,21/03/2020,High,63,Cinci Momoh,Science Park 7,213,Building Construction,8/12/19,In Progress,0.59,4
+"$1,200.00",USA,3/6/20,250,Ilinois,On Track,6/3/20,Low,64,Cinci Momoh,Research Offices 2,200,Building Construction,8/19/19,In Progress,0.22,2
+"$1,340.00",USA,4/1/20,540,California,On Track,1/4/20,Very Low,65,Cinci Momoh,Network Connectivity,218,Building Construction,8/27/19,On Hold,0.61,1
+"$2,340.00",USA,4/12/20,2600,New York,On Track,20/04/2020,Very Low,66,Cinci Momoh,Lab Implementation,244,Transformer Installation,8/12/19,Cancelled,0.95,1
+$930.00,USA,8/12/20,0,Texas,Needs Attention,25/08/2020,Very High,67,Cinci Momoh,Park Place 7,366,Supplies,8/12/19,Planned,0,5
+"$6,000.00",USA,12/12/19,4300,New York,Completed,28/12/2019,Very Low,68,James Seun,Education Theatre 3,143,Building Construction,7/22/19,Completed,1,1
+"$2,400.00",USA,3/12/20,1000,Florida,Completed,20/03/2020,Low,69,Cinci Momoh,Floor Renovation 3,239,Building Construction,7/17/19,Completed,1,2
+"$16,000.00",USA,12/12/19,10090,Washington,Completed,28/12/2019,Medium,70,James Seun,Education Theatre 4,143,Building Construction,7/22/19,Completed,1,3
+"$3,400.00",USA,2/12/20,2800,North Carolina,On Track,21/02/2020,Medium,71,Cinci Momoh,Ticketing System,184,Road Construction,8/12/19,Cancelled,0.59,3
+"$23,000.00",USA,2/12/20,10590,Ilinois,Completed,25/02/2020,Very High,72,Abdul Rex,Park Place 8,187,Borehole & Reticulation,8/9/19,Completed,1,5
+"$15,000.00",USA,12/12/19,5550,California,On Track,13/12/2019,High,73,Sarah Boulos,Classroom Arrangement 5,91,Building Construction,9/12/19,Cancelled,0.35,4
+"$16,000.00",USA,7/12/19,16890,Arizona,Not Set,26/07/2019,Medium,74,Dave Chieke,Training Room,63,Building Construction,5/10/19,On Hold,0.14,3
+"$3,400.00",USA,2/10/20,2300,Texas,On Track,21/02/2020,Low,75,Abdul Rex,Ticketing System,183,Road Construction,8/11/19,Cancelled,0.59,2
+"$23,000.00",USA,10/12/19,21450,New York,Completed,28/10/2019,Very Low,76,Dave Chieke,Classroom Arrangement,29,Borehole & Reticulation,9/13/19,Completed,1,1
+"$1,500.00",USA,2/12/20,1340,Florida,Completed,25/02/2020,Very Low,77,Abdul Rex,Creative Media Industries 4,187,Building Construction,8/9/19,Completed,1,1
+"$16,000.00",USA,12/11/19,15465,Washington,On Track,13/12/2019,Medium,78,Sarah Boulos,Classroom Arrangement 6,91,Building Construction,9/11/19,Cancelled,0.35,3
+"$13,400.00",USA,10/12/19,7000,North Carolina,Completed,22/10/2019,Low,79,Dave Chieke,Classroom Arrangement,19,Borehole & Reticulation,9/23/19,Completed,1,2
+"$23,000.00",USA,10/12/19,20345,Ilinois,Completed,28/02/2019,Very High,80,Dave Chieke,Classroom Arrangement,19,Supplies,9/23/19,Completed,1,5
+"$10,500.00",USA,10/12/19,10240,California,Completed,12/10/19,High,81,Dave Chieke,Classroom Arrangement,19,Road Construction,9/23/19,Completed,1,4
+"$5,000.00",USA,2/12/20,3400,Arizona,Completed,12/2/20,Low,82,Abdul Rex,Park Place 9,187,Borehole & Reticulation,8/9/19,Completed,1,2
+"$1,000.00",USA,7/3/20,0,Texas,On Track,13/12/2020,High,83,Sarah Boulos,Classroom Arrangement 7,182,Building Construction,1/3/20,Planned,0,4
+"$63,600.00",USA,8/9/20,0,New York,Needs Attention,19/08/2020,Very Low,84,Dave Chieke,Lab Building Construction 1,182,Building Construction,2/9/20,Planned,0,1
+"$6,000.00",USA,3/6/20,4080,Florida,On Track,6/3/20,Very Low,85,Abdul Rex,Research Offices,329,Road Construction,4/12/19,In Progress,0.22,1
+"$4,300.00",USA,3/6/20,4450,Washington,On Track,6/3/20,Medium,86,Abdul Rex,Research Offices,269,Borehole & Reticulation,6/11/19,In Progress,0.22,3
+"$5,500.00",USA,3/6/20,1000,North Carolina,On Track,6/3/20,Low,87,Abdul Rex,Research Offices,262,Rehabilitation,6/18/19,In Progress,0.22,2
+"$34,500.00",USA,10/11/19,30000,Ilinois,On Track,25/10/2019,Low,88,Dave Chieke,Classroom Arrangement,214,Rehabilitation,3/11/19,In Progress,0.93,2
+"$7,000.00",USA,2/1/20,6580,California,On Track,21/02/2020,Very Low,89,Abdul Rex,Science Park 1,295,Building Construction,4/12/19,In Progress,0.59,1
+"$4,500.00",USA,10/1/20,0,Arizona,Needs Attention,1/10/20,Very High,90,Abdul Rex,Creative Media Industries 1,143,Building Construction,5/11/20,Planned,0,5
+"$23,000.00",USA,10/11/19,20340,Texas,On Track,13/12/2019,Medium,91,Sarah Boulos,Lab Implementation,154,Road Construction,5/10/19,In Progress,0.35,3
+"$1,500.00",USA,5/12/19,980,New York,Not Set,26/07/2019,Very High,92,Vivian Ade,Central Deployment,30,Borehole & Reticulation,4/12/19,On Hold,0.14,5
+"$9,800.00",USA,4/11/20,9050,Florida,On Track,21/02/2020,Very Low,93,Abdul Rex,Science Park 2,276,Building Construction,7/10/19,In Progress,0.59,1
+"$23,000.00",USA,12/5/20,0,Washington,Needs Attention,15/10/2020,Very High,94,Vivian Ade,Lab Building Construction 2,81,Building Construction,9/15/20,Planned,0,5
+"$1,200.00",USA,12/10/20,0,North Carolina,Needs Attention,18/10/2020,Very High,95,Abdul Rex,Creative Media Industries 2,192,Building Construction,6/1/20,Planned,0,5
+"$12,300.00",USA,12/12/19,15000,Ilinois,On Track,13/12/2019,Medium,96,Cinci Momoh,Classroom Arrangement 1,93,Building Construction,9/10/19,In Progress,0.35,3
+"$2,340.00",USA,4/2/20,0,California,Not Set,28/11/2020,Very Low,97,Vivian Ade,Classroom Arrangement,89,Road Construction,1/4/20,Planned,0,1
